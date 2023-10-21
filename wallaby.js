@@ -1,3 +1,5 @@
-module.exports = {
-  trace: true,
+module.exports = function (wallaby) {
+  return {
+    trace: true,
+  };
 };
