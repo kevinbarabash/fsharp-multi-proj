@@ -10,7 +10,7 @@
     "test": "vitest"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0",
     "vitest": "^0.34.6"
